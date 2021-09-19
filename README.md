@@ -1,1 +1,7 @@
-# lab3-016-0gdfgflkngsdl;kfgsdlkfgjsdf;gjdsflkgjsdf;j
+<<<<<<< HEAD
+# lab3-016-06
+Editing this to create merge conflicts
+Project Team Members: Gunnar Fettig
+Tyler Scripps
+Delan Huang
+>>>>>>> main
