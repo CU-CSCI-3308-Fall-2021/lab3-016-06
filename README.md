@@ -1,6 +1,8 @@
 # lab3-016-06
-<<<<<<< HEAD
-Project Team Members: Avery
-=======
-Editing this to create merge conflicts
->>>>>>> main
+
+Project Team Members: Gunnar Fettig
+Tyler Scripps
+Delan Huang
+Behta Christian
+Avery Lawson
+
